@@ -144,7 +144,7 @@ description: "Quynh (Celine) Nguyen Phuong, trademark examiner since 2016 with a
   <div class="wrap about">
     <div>
       <h2 id="about-h">About</h2>
-      <p>I am Quynh Nguyen Phuong, and international clients and colleagues know me as Celine. I have examined trademark applications in Vietnam since 2016, both national filings and international registrations designating Vietnam under the Madrid Protocol. Every day I apply the tests that decide whether a mark is registered: likelihood of confusion, the average consumer, prior rights and bad faith.</p>
+      <p>I have examined trademark applications in Vietnam since 2016, both national filings and international registrations designating Vietnam under the Madrid Protocol. Every day I apply the tests that decide whether a mark is registered: likelihood of confusion, the average consumer, prior rights and bad faith.</p>
       <p>I hold an LLM in Intellectual Property Law from Nottingham Trent University, where my dissertation looked at when keyword advertising infringes a trademark, and an MBA from Foreign Trade University in Hanoi. My research now asks how the likelihood of confusion test should work when AI shopping agents and digital marketplaces shape what people buy.</p>
       <p>I also train businesses and policymakers on registering marks abroad through the Madrid System, and I write First to File, a weekly briefing on Vietnam trademark news.</p>
       <ul class="talks" aria-label="Selected presentations">
