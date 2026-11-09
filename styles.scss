@@ -195,3 +195,6 @@ a:hover { color: $caramel-text; }
 .talks li { display: grid; grid-template-columns: 3.4rem minmax(0, 1fr); gap: .8rem; font-size: .96rem; }
 .talks b { color: $caramel-text; font-variant-numeric: tabular-nums; }
 @media (min-width: 1200px) { body { font-size: 1.1rem; } .home-hero .wrap { gap: 4.5rem; } }
+
+.home-hero .aka { margin: .45rem 0 0; color: #dccbb4; font-size: 1.05rem; letter-spacing: .01em; }
+.home-hero .aka b { color: $caramel; font-weight: 600; }

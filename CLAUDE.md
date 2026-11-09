@@ -1,4 +1,4 @@
-# Website of Nguyen Phuong Quynh (firsttofile.vn)
+# Website of Quynh Nguyen Phuong (firsttofile.vn)
 
 Trademark advice for companies registering brands in Vietnam, plus the weekly series First to File.
 Owner is not technical: Claude does all technical work and explains each step simply.

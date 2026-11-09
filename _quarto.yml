@@ -13,7 +13,7 @@ project:
     - "assets/*.webp"
 
 website:
-  title: "Nguyen Phuong Quynh"
+  title: "Quynh Nguyen Phuong"
   description: "Trademark advice for companies registering and protecting their brands in Vietnam."
   site-url: "https://quynhnphng.github.io/firsttofile.vn"
   favicon: assets/favicon.svg
@@ -34,7 +34,7 @@ website:
       - href: contact.qmd
         text: Contact
   page-footer:
-    left: "Nguyen Phuong Quynh · Trademark advice for Vietnam"
+    left: "Quynh Nguyen Phuong · Trademark advice for Vietnam"
     center: "General information only, not legal advice."
     right:
       - text: "Privacy"
