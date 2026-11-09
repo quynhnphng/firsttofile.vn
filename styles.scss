@@ -12,6 +12,7 @@ $text:          #3a2a1f;   // brown body text
 $muted:         #6f5a4a;   // secondary brown
 $rule:          #e2d4c0;   // hairlines
 
+$web-font-path: false;  // do not load Lato from Google; our fonts are self-hosted
 $body-bg: $paper;
 $body-color: $text;
 $link-color: $espresso;
@@ -197,3 +198,7 @@ a:hover { color: $caramel-text; }
 @media (min-width: 1200px) { body { font-size: 1.1rem; } .home-hero .wrap { gap: 4.5rem; } }
 
 .home-hero .aka { color: $caramel; font-weight: 400; font-size: .62em; white-space: nowrap; }
+section.home-section.about-page { padding-top: 3.2rem !important; padding-bottom: 4rem !important; }
+.page-head { background: $espresso; color: #dccbb4; padding-block: 3rem 2.6rem; }
+.page-head h1 { color: #fff; font-size: clamp(2.2rem, 4vw, 3rem); margin: 0 0 .4rem; }
+.page-head p { margin: 0; font-size: 1.1rem; max-width: 46rem; }

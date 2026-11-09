@@ -140,35 +140,6 @@ description: "Quynh (Celine) Nguyen Phuong, trademark examiner since 2016 with a
   </div>
 </section>
 
-<section class="home-section" aria-labelledby="about-h">
-  <div class="wrap about">
-    <div>
-      <h2 id="about-h">About</h2>
-      <p>I have examined trademark applications in Vietnam since 2016, both national filings and international registrations designating Vietnam under the Madrid Protocol. Every day I apply the tests that decide whether a mark is registered: likelihood of confusion, the average consumer, prior rights and bad faith.</p>
-      <p>I hold an LLM in Intellectual Property Law from Nottingham Trent University, where my dissertation looked at when keyword advertising infringes a trademark, and an MBA from Foreign Trade University in Hanoi. My research now asks how the likelihood of confusion test should work when AI shopping agents and digital marketplaces shape what people buy.</p>
-      <p>I also train businesses and policymakers on registering marks abroad through the Madrid System, and I write First to File, a weekly briefing on Vietnam trademark news.</p>
-      <ul class="talks" aria-label="Selected presentations">
-        <li><b>2025</b><span>Workshops on trademark examination in the digital age and the Madrid Protocol, Kuala Lumpur</span></li>
-        <li><b>2023</b><span>WIPO Regional Workshop on the Madrid System, Hanoi</span></li>
-        <li><b>2023</b><span>USPTO and ASEAN Workshop on Madrid Protocol practice, Bangkok</span></li>
-      </ul>
-      <p style="margin-top:1.2rem"><a href="about.html">Full profile &rarr;</a></p>
-    </div>
-    <div>
-      <picture>
-        <source srcset="assets/quynh.webp" type="image/webp">
-        <img class="about-photo" src="assets/quynh.jpg" alt="Portrait of Quynh Nguyen Phuong" width="360" height="450" loading="lazy">
-      </picture>
-      <dl class="facts">
-        <div><dt>Focus</dt><dd>Trademarks in Vietnam, Madrid System</dd></div>
-        <div><dt>Experience</dt><dd>Trademark examiner since 2016</dd></div>
-        <div><dt>Education</dt><dd>LLM Intellectual Property Law (UK), MBA and BBA (Foreign Trade University)</dd></div>
-        <div><dt>Languages</dt><dd>Vietnamese (native), English (C1)</dd></div>
-      </dl>
-    </div>
-  </div>
-</section>
-
 <section class="cta-band" aria-labelledby="cta-h">
   <div class="wrap">
     <div>
