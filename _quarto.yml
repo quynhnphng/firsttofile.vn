@@ -1,0 +1,55 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - "*.qmd"
+    - "guides/*.qmd"
+    - "series/*.qmd"
+  resources:
+    - "assets/fonts/*"
+    - "assets/*.svg"
+    - "assets/*.css"
+    - "assets/*.jpg"
+    - "assets/*.webp"
+
+website:
+  title: "Nguyen Phuong Quynh"
+  description: "Trademark advice for companies registering and protecting their brands in Vietnam."
+  site-url: "https://quynhnphng.github.io/firsttofile.vn"
+  favicon: assets/favicon.svg
+  open-graph: true
+  twitter-card: true
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: services.qmd
+        text: Services
+      - href: guides/index.qmd
+        text: Guides
+      - href: series/index.qmd
+        text: First to File
+      - href: about.qmd
+        text: About
+      - href: contact.qmd
+        text: Contact
+  page-footer:
+    left: "Nguyen Phuong Quynh · Trademark advice for Vietnam"
+    center: "General information only, not legal advice."
+    right:
+      - text: "Privacy"
+        href: privacy.qmd
+      - text: "Legal notice"
+        href: legal.qmd
+      - text: "Subscribe"
+        href: series/index.qmd
+
+format:
+  html:
+    theme:
+      light: [flatly, styles.scss]
+    css: assets/fonts.css
+    title-block-banner: true
+    toc: false
+    smooth-scroll: true
+    html-math-method: plain

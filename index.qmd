@@ -1,0 +1,181 @@
+---
+pagetitle: "Nguyen Phuong Quynh · Trademark advice for Vietnam"
+page-layout: custom
+title-block-banner: false
+title-block-style: none
+description: "Nguyen Phuong Quynh, trademark examiner since 2016 with an LLM in Intellectual Property Law: plain-English help for companies registering trademarks in Vietnam."
+---
+
+<!-- DRAFT COPY: written from the owner's CV. She reviews every line before publishing. -->
+
+```{=html}
+<section class="home-hero">
+  <div class="wrap">
+    <div>
+      <p class="eyebrow">Trademark advice for Vietnam</p>
+      <div class="id-row">
+        <picture>
+          <source srcset="assets/quynh-square.webp" type="image/webp">
+          <img class="portrait" src="assets/quynh-square.jpg" alt="Nguyen Phuong Quynh" width="112" height="112">
+        </picture>
+        <h1>Nguyen Phuong Quynh</h1>
+      </div>
+      <p class="role">Trademark examiner since 2016, working on national applications and international registrations under the Madrid System. LLM in Intellectual Property Law, Nottingham Trent University.</p>
+      <p class="thesis">I help companies register and protect their trademarks in Vietnam, before someone else files them first.</p>
+      <div class="actions">
+        <a class="btn-gold" href="contact.html">Book a free 15-minute call</a>
+        <a class="btn-ghost" href="guides/index.html">Read the guides</a>
+        <a class="btn-ghost" href="#">LinkedIn</a>
+      </div>
+    </div>
+
+    <figure class="register" aria-labelledby="reg-cap">
+      <div class="register-head">
+        <strong>Same brand, two applications</strong>
+        <span>Illustrative example</span>
+      </div>
+      <div class="entry">
+        <span class="date">3 Mar 2026</span>
+        <span class="party">A local trader<span class="no">Application 4-2026-08115</span></span>
+        <span class="status status-ok">Goes ahead</span>
+      </div>
+      <div class="entry">
+        <span class="date">10 Mar 2026</span>
+        <span class="party">Your company<span class="no">Application 4-2026-08947</span></span>
+        <span class="status status-no">Refused</span>
+      </div>
+      <figcaption id="reg-cap"><b>Vietnam is a first-to-file country.</b> When two applications cover the same or a confusingly similar mark for related goods, the earlier filing date generally wins, even if you used the brand first abroad. Exceptions, such as well-known marks or filings made in bad faith, are narrow and costly to prove.</figcaption>
+    </figure>
+  </div>
+</section>
+
+<section class="trust" aria-label="At a glance">
+  <div class="wrap">
+    <div class="trust-item"><span class="big">2016</span><p><b>Trademark examiner since</b>National applications and Madrid designations of Vietnam, including refusals and oppositions.</p></div>
+    <div class="trust-item"><span class="big">LLM</span><p><b>Intellectual Property Law</b>Nottingham Trent University, United Kingdom, with Commendation.</p></div>
+    <div class="trust-item"><span class="big">3</span><p><b>International forums</b>Presented on Madrid practice at WIPO, USPTO and ASEAN workshops.</p></div>
+  </div>
+</section>
+
+<section class="home-section" aria-labelledby="who-h">
+  <div class="wrap">
+    <div class="section-head">
+      <div>
+        <h2 id="who-h">Who I help</h2>
+        <p>Companies and advisers who need a trademark in Vietnam, and want to get it right the first time.</p>
+      </div>
+    </div>
+    <div class="who">
+      <div class="who-card"><h3>Brands entering Vietnam</h3><p>Register before you launch, ship stock or sign with a distributor.</p></div>
+      <div class="who-card"><h3>Manufacturers in Vietnam</h3><p>Protect the marks on goods made here, where partners and suppliers see them first.</p></div>
+      <div class="who-card"><h3>Online sellers</h3><p>Own the name you sell under on Vietnamese marketplaces and social commerce.</p></div>
+      <div class="who-card"><h3>Law firms and agents abroad</h3><p>A Vietnam specialist to explain the system and the risks to your clients.</p></div>
+    </div>
+  </div>
+</section>
+
+<section class="home-section" aria-labelledby="svc-h">
+  <div class="wrap">
+    <div class="section-head">
+      <div>
+        <h2 id="svc-h">How I can help</h2>
+        <p>From the first question to a registered mark, with each step explained.</p>
+      </div>
+      <a href="services.html">Services and prices &rarr;</a>
+    </div>
+    <div class="packages">
+      <div class="pkg"><h3>Free trademark check</h3><p>A 15-minute call on what to protect, the main risks and your next step.</p><span class="tag">Free</span></div>
+      <div class="pkg"><h3>Readiness Review</h3><p>Searches for similar marks, class choice and Vietnamese translation risks, with a written action plan.</p><span class="tag"></span></div>
+      <div class="pkg pkg-signature"><h3>Filing Strategy</h3><p>Goods and services list, national filing or Madrid designation, timeline and budget, ready to file.</p><span class="tag">Signature service</span></div>
+      <div class="pkg"><h3>Refusals and Oppositions</h3><p>Plain-language guidance when an application is refused or opposed, with your options and likely outcomes.</p><span class="tag"></span></div>
+      <div class="pkg"><h3>Brand Watch</h3><p>A monthly check for conflicting new filings, a renewals calendar and quick answers when you need them.</p><span class="tag">Monthly</span></div>
+    </div>
+    <div class="packages-foot">
+      <p>Prices are shown as ranges and confirmed in a fixed written quote before any work starts. Foreign applicants file through a licensed Vietnamese IP agent, and I work alongside them.</p>
+      <a class="btn-jade" href="contact.html">Request a quote</a>
+    </div>
+  </div>
+</section>
+
+<section class="home-section" aria-labelledby="series-h">
+  <div class="wrap">
+    <div class="series">
+      <div class="series-intro">
+        <p class="eyebrow">Every week</p>
+        <h2 id="series-h">First to File</h2>
+        <p>One Vietnam trademark development a week, in plain English: what changed, who it affects and what to do now.</p>
+        <p>New rules, court decisions, fee changes and the mistakes that cost brands their name in Vietnam.</p>
+        <div class="actions">
+          <a class="btn-jade" href="series/index.html">Subscribe free</a>
+          <a class="btn-line" href="series/index.html">All issues</a>
+        </div>
+      </div>
+      <div class="series-steps">
+        <h3>Every issue ends with six steps</h3>
+        <div class="step-group"><b>Check.</b><span>Decide what to protect and get the facts ready.</span></div>
+        <div class="step-group"><b>File.</b><span>Act on it, with the dates and costs that apply.</span></div>
+        <div class="step-group"><b>Protect.</b><span>Watch the register, renew on time and enforce.</span></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="home-section" aria-labelledby="guides-h">
+  <div class="wrap">
+    <div class="section-head">
+      <div>
+        <h2 id="guides-h">Vietnam trademark guides</h2>
+        <p>Plain-English answers to the questions applicants ask most, checked against the law in force.</p>
+      </div>
+      <a href="guides/index.html">All guides &rarr;</a>
+    </div>
+    <ul class="guides">
+      <li><span>How do I register a trademark in Vietnam?</span><small>In preparation</small></li>
+      <li><span>What does first-to-file mean for my brand?</span><small>In preparation</small></li>
+      <li><span>Madrid designation or national filing: which is better for Vietnam?</span><small>In preparation</small></li>
+      <li><span>Someone registered my brand in Vietnam. What can I do?</span><small>In preparation</small></li>
+      <li><span>How do I write a goods and services list that passes examination?</span><small>In preparation</small></li>
+      <li><span>How long does trademark registration take in Vietnam?</span><small>In preparation</small></li>
+    </ul>
+  </div>
+</section>
+
+<section class="home-section" aria-labelledby="about-h">
+  <div class="wrap about">
+    <div>
+      <h2 id="about-h">About</h2>
+      <p>I have examined trademark applications in Vietnam since 2016, both national filings and international registrations designating Vietnam under the Madrid Protocol. Every day I apply the tests that decide whether a mark is registered: likelihood of confusion, the average consumer, prior rights and bad faith.</p>
+      <p>I hold an LLM in Intellectual Property Law from Nottingham Trent University, where my dissertation looked at when keyword advertising infringes a trademark, and an MBA from Foreign Trade University in Hanoi. My research now asks how the likelihood of confusion test should work when AI shopping agents and digital marketplaces shape what people buy.</p>
+      <p>I also train businesses and policymakers on registering marks abroad through the Madrid System, and I write First to File, a weekly briefing on Vietnam trademark news.</p>
+      <ul class="talks" aria-label="Selected presentations">
+        <li><b>2025</b><span>Workshops on trademark examination in the digital age and the Madrid Protocol, Kuala Lumpur</span></li>
+        <li><b>2023</b><span>WIPO Regional Workshop on the Madrid System, Hanoi</span></li>
+        <li><b>2023</b><span>USPTO and ASEAN Workshop on Madrid Protocol practice, Bangkok</span></li>
+      </ul>
+      <p style="margin-top:1.2rem"><a href="about.html">Full profile &rarr;</a></p>
+    </div>
+    <div>
+      <picture>
+        <source srcset="assets/quynh.webp" type="image/webp">
+        <img class="about-photo" src="assets/quynh.jpg" alt="Portrait of Nguyen Phuong Quynh" width="360" height="450" loading="lazy">
+      </picture>
+      <dl class="facts">
+        <div><dt>Focus</dt><dd>Trademarks in Vietnam, Madrid System</dd></div>
+        <div><dt>Experience</dt><dd>Trademark examiner since 2016</dd></div>
+        <div><dt>Education</dt><dd>LLM Intellectual Property Law (UK), MBA and BBA (Foreign Trade University)</dd></div>
+        <div><dt>Languages</dt><dd>Vietnamese (native), English (C1)</dd></div>
+      </dl>
+    </div>
+  </div>
+</section>
+
+<section class="cta-band" aria-labelledby="cta-h">
+  <div class="wrap">
+    <div>
+      <h2 id="cta-h">Planning a trademark in Vietnam?</h2>
+      <p>Start with a free 15-minute call. You will know what to protect and what it will take.</p>
+    </div>
+    <a class="btn-gold" href="contact.html">Book a free call</a>
+  </div>
+</section>
+```
