@@ -18,10 +18,7 @@ description: "Quynh (Celine) Nguyen Phuong, trademark examiner since 2016 with a
           <source srcset="assets/quynh-square.webp" type="image/webp">
           <img class="portrait" src="assets/quynh-square.jpg" alt="Quynh Nguyen Phuong" width="112" height="112">
         </picture>
-        <div>
-          <h1>Quynh Nguyen Phuong</h1>
-          <p class="aka">Known professionally as <b>Celine</b></p>
-        </div>
+        <h1>Quynh Nguyen Phuong <span class="aka">(Celine)</span></h1>
       </div>
       <p class="role">Trademark examiner since 2016, working on national applications and international registrations under the Madrid System. LLM in Intellectual Property Law, Nottingham Trent University.</p>
       <p class="thesis">I help companies register and protect their trademarks in Vietnam, before someone else files them first.</p>
